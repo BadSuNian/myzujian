@@ -1,0 +1,16 @@
+PODS:
+  - htfTool (0.1.0)
+
+DEPENDENCIES:
+  - htfTool (from `../`)
+
+EXTERNAL SOURCES:
+  htfTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  htfTool: 26770c20d7cb692c3e1328ace7e32cfd2c8d1d33
+
+PODFILE CHECKSUM: 39633db18dc2d6a1d4a76f2a68919511c71f3639
+
+COCOAPODS: 1.5.3

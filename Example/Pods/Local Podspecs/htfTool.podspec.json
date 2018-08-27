@@ -1,0 +1,22 @@
+{
+  "name": "htfTool",
+  "version": "0.1.0",
+  "summary": "A short description of htfTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gaopengname@gmail.com/htfTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gaopengname@gmail.com": "97282073@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/gaopengname@gmail.com/htfTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "htfTool/Classes/**/*"
+}
