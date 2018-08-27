@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'htfTool_Example' do
+  pod 'htfTool', :path => '../'
+
+  target 'htfTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
