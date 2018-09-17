@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'htfTool'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'https://github.com/BadSuNian' #简介
 
 # This description is used to generate tags and improve search results.
@@ -32,6 +32,7 @@ s.homepage         = 'https://github.com/BadSuNian/myzujian'#仓库首页地址
 
   s.source_files = 'htfTool/Classes/**/*'
   
+  s.dependency 'Masonry'
   # s.resource_bundles = {
   #   'htfTool' => ['htfTool/Assets/*.png']
   # }
